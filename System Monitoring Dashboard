@@ -1,0 +1,22 @@
+Description:
+I'm excited to share my latest project, a System Monitoring Dashboard built with Flask and Plotly! 🌟
+
+Key Features:
+
+Real-time CPU and memory utilization monitoring
+
+Interactive Plotly gauges for visual representation
+
+Alerts for high utilization
+
+🛠️ Technologies Used:
+
+Python
+
+Flask
+
+Plotly
+
+psutil
+
+This project demonstrates my skills in web development, data visualization, and system monitoring.
